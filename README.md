@@ -13,7 +13,7 @@ pip install tensorboardX termcolor timm tqdm requests pandas info-nce-pytorch
 ```
 
 # Evaluation
-- Download pre-trained weights on [Link](链接: https://pan.baidu.com/s/1tM0cyenXE6x6V5MM5vRWSQ) (Keys: 5jnk)
+- Download pre-trained weights on [Link](https://pan.baidu.com/s/1tM0cyenXE6x6V5MM5vRWSQ) (Keys: 5jnk)
 
 - Result on SPair-71k:
       python test.py --datapath "/path_to_dataset" --pretrained "/path_to_pretrained_model/spair" --benchmark spair
